@@ -1,3 +1,8 @@
+# Fanatic is free React Template made for [Graphberry](https://www.graphberry.com/).
+
+You can Preview this template on [Graphberry webiste](https://www.graphberry.com/item/fanatic-free-react-landing-page).
+or you can clone it from here.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
